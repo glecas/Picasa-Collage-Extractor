@@ -38,6 +38,14 @@ If the original source photographs were later deleted but the rendered collage a
 
 This utility uses the surviving layout information to recover each visible image area directly from the final rendered collage.
 
+Picasa would throw this error when attempting to "Edit Collage" and the source files are missing
+
+<img width="418" height="160" alt="image" src="https://github.com/user-attachments/assets/7f5c599f-862f-499d-ae61-5e8e1400141e" />
+
+"The collage cannot be edited because none of the pictures referenced in the collage could be found.
+(The missing files must have been moved, renamed or deleted)"
+
+
 ## Important limitation
 
 This tool does **not** recover the original source photographs.
